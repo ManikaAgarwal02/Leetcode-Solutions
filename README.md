@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [3174-clear-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3174-clear-digits) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -55,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
