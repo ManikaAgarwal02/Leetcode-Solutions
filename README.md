@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
