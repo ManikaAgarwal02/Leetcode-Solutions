@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
