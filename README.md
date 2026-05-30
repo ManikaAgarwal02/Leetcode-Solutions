@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
