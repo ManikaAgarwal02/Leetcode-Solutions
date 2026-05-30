@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
