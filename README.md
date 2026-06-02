@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Array
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -167,8 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
