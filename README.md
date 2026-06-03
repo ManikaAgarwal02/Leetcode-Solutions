@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
