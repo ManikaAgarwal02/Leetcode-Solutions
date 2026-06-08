@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
