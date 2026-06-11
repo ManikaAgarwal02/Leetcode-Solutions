@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [1768-merge-strings-alternately](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1768-merge-strings-alternately](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Stack
