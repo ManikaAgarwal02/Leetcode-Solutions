@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1768-merge-strings-alternately](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
