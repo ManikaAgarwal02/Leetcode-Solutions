@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 ## Sorting
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
