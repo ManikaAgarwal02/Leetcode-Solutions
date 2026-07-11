@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1768-merge-strings-alternately](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
