@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
