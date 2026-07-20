@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
