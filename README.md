@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 ## Sorting
 |  |
