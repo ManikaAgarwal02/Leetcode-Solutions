@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
