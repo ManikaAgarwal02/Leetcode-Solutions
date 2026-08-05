@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
