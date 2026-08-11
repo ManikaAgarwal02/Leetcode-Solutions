@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Counting
 |  |
 | ------- |
