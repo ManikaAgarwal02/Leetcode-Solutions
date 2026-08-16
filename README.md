@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3360-stone-removal-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3174-clear-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
