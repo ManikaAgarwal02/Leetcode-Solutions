@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3360-stone-removal-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -365,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
