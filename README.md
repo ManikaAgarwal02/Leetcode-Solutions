@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Tree
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
