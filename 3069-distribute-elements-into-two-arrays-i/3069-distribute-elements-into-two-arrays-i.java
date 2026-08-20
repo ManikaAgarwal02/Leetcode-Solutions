@@ -16,10 +16,9 @@ class Solution {
 
         }
         int arr[]=new int[nums.length];
-        ArrayList<Integer> combined = new ArrayList<>(l);
-        combined.addAll(l2);
-        for (int i = 0; i < combined.size(); i++) {
-        arr[i] = combined.get(i);
+        l.addAll(l2);
+        for (int i = 0; i < l.size(); i++) {
+        arr[i] = l.get(i);
         }
 
         return arr;
