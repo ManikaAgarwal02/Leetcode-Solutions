@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1598-crawler-log-folder](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
