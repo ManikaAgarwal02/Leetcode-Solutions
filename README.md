@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
