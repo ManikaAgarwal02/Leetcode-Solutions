@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
