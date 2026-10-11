@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Matrix
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search Tree
 |  |
