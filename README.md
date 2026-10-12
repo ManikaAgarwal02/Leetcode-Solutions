@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search Tree
