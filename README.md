@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManikaAgarwal02/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search Tree
